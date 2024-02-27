@@ -18,4 +18,4 @@ This project uses data from Pirika Association, a start-up created in 2011 in th
 Data is available at [Corp.pirika.org](https://corp.pirika.org/en/public-survey-results) under the [CC BY 4.0 DEED](https://creativecommons.org/licenses/by/4.0/) license.
 
 Trained models:
-You can You can view and download the models trained in our tests from this [Google Drive folder](https://drive.google.com/drive/folders/1xScl7DJTdJ5olP4GrHceEzDTeXhmDppx?usp=sharing)
+You can view and download the models trained in our tests from this [Google Drive folder](https://drive.google.com/drive/folders/1xScl7DJTdJ5olP4GrHceEzDTeXhmDppx?usp=sharing)
